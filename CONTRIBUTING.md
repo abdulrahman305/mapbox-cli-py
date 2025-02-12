@@ -1,8 +1,8 @@
+# PAUSED DEVELOPMENT
+
+Since [the SDK that it wraps](https://github.com/mapbox/mapbox-sdk-py/blob/master/CONTRIBUTING.md#attention-this-project-is-paused) has been deprecated, we have also archived this CLI. We encourage you to migrate to [the equivalent tiling and upload endpoints.](https://docs.mapbox.com/api/maps/mapbox-tiling-service/)
+
 # Contributing
-
-If you want to add an issue or pull request, please ensure that the [existing issues](https://github.com/mapbox/mapbox-cli-py/issues?utf8=✓&q=) don't already cover your question or contribution.
-
-To get started contributing code to the `mapbox-cli-py` project:
 
 ## Installation
 

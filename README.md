@@ -1,3 +1,7 @@
+# PAUSED DEVELOPMENT
+
+Since [the SDK that it wraps](https://github.com/mapbox/mapbox-sdk-py/blob/master/CONTRIBUTING.md#attention-this-project-is-paused) has been deprecated, we have also archived this CLI. We encourage you to migrate to [the equivalent tiling and upload endpoints.](https://docs.mapbox.com/api/maps/mapbox-tiling-service/)
+
 # mapbox-cli-py
 
 [![Build Status](https://travis-ci.org/mapbox/mapbox-cli-py.svg?branch=master)](https://travis-ci.org/mapbox/mapbox-cli-py) [![Coverage Status](https://coveralls.io/repos/mapbox/mapbox-cli-py/badge.svg?branch=master&service=github)](https://coveralls.io/github/mapbox/mapbox-cli-py?branch=master)
